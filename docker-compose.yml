@@ -1,0 +1,6 @@
+services:
+  python:
+    restart: always
+    container_name: Python-face-recognition
+      
+
